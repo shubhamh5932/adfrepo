@@ -1,0 +1,15 @@
+{
+	"name": "adffactory5932",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6375918-c67e-49f1-a2c1-1d5dda105d24",
+		"tenantId": "e2f8f3eb-70f9-400a-9e64-98635ac8f843"
+	}
+}
